@@ -1,0 +1,2 @@
+claim_payment_count,total_claim_amount,average_claim_payment,median_claim_payment,claim_payment_stddev,min_claim_payment,max_claim_payment,claim_payment_q75,claim_payment_q90,claim_payment_q95,claim_payment_q99
+26639,60697930.67999963,2278.5363819963072,1172.0,29297.48133615822,1.0,4075400.56,1228.08,2799.072,4861.684999999999,16793.704399999988

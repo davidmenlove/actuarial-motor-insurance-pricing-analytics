@@ -1,0 +1,2 @@
+policy_count,total_exposure,total_claim_count,claim_frequency,claim_payment_count,total_claim_amount,average_claim_payment,median_claim_payment,claim_payment_stddev,min_claim_payment,max_claim_payment,pure_premium
+678013,358499.44546284684,36102,0.10070308464045152,26639,60697930.67999963,2278.5363819963072,1172.0,29297.48133615822,1.0,4075400.56,169.31108666467958

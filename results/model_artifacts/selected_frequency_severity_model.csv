@@ -1,0 +1,2 @@
+model_version,analysis_date,selection_criterion,frequency_distribution,lambda_per_exposure_year,severity_distribution,severity_log_likelihood,severity_aic,severity_bic,severity_param_1_name,severity_param_1_value,severity_param_2_name,severity_param_2_value,severity_loc_fixed
+1.0,2026-06-28,lowest_aic,poisson,0.1007030846404707,lognormal,-223590.1352959656,447184.2705919312,447200.65085510403,sigma,1.1326525357505728,mu,6.8498373700273225,0

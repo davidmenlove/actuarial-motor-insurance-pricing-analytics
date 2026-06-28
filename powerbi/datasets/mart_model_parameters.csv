@@ -1,0 +1,5 @@
+distribution,parameter_code,parameter,estimate,parameter_sort_order
+Gamma,shape_alpha,Shape (α),0.6873740470924351,1
+Gamma,scale_theta,Scale (θ),3314.8420305282684,2
+Lognormal,mu,μ,6.8498373700273225,1
+Lognormal,sigma,σ,1.1326525357505728,2

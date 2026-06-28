@@ -1,0 +1,5 @@
+assumption_year,scenario_id,scenario_name,annual_claim_inflation_rate,annual_expense_inflation_rate,annual_premium_trend_rate,risk_free_discount_rate,portfolio_growth_rate,frequency_trend_rate,severity_trend_rate,notes
+2026,BASE,Base Case,0.03,0.025,0.02,0.035,0.01,0.0,0.03,Central planning assumption for expected annual loss modeling.
+2026,LOW_INFLATION,Low Inflation,0.015,0.015,0.015,0.03,0.005,-0.005,0.015,Benign environment with lower claims-cost pressure.
+2026,HIGH_INFLATION,High Inflation,0.06,0.045,0.03,0.045,0.0,0.005,0.06,Adverse inflation environment with elevated severity trend.
+2026,STRESS,Stress Scenario,0.09,0.06,0.02,0.05,-0.01,0.02,0.09,Adverse stress case with higher frequency and severity assumptions.
