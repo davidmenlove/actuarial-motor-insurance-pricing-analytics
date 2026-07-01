@@ -83,6 +83,12 @@ Each distribution is fitted to positive claim payments. The fitted models are ev
 
 The selected severity model is saved as a model artifact and used by downstream Monte Carlo simulations.
 
+### Severity Data Note
+
+The freMTPL2 severity dataset contains several highly repeated claim amounts. These fixed amounts are a known feature of the dataset and arise from standardized French motor claims settlement conventions. As a result, the empirical severity histogram contains visible spikes.
+
+Continuous Gamma and Lognormal severity distributions are fitted to approximate the overall severity distribution for pricing purposes, rather than to reproduce each discrete settlement amount exactly.
+
 ---
 
 ## 5. Monte Carlo Pricing Simulation
